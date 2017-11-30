@@ -126,7 +126,7 @@ body {
   font-weight: 400;
   font-family: "Hind Vadodara", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #222;
-  background: rgba(232, 131, 123, 0.1);  }
+ }
 
 
 /* Typography
@@ -160,9 +160,11 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #1EAEDB; }
+  color: #1a0dab;
+  text-decoration: none;}
 a:hover {
-  color: #0FA0CE; }
+  color: ##1a0dab;
+  text-decoration: underline;}
 
 
 /* Buttons
